@@ -12,7 +12,7 @@ conta1.numero_agencia = "5875-x";
 conta.Transferir(50,conta1);
 
 System.Console.WriteLine("Saldo pos tranferencia = " + conta.saldo);
-System.Console.WriteLine("saldo pos tranferencia = " + conta1.saldo );
+System.Console.WriteLine("saldo pos tranferencia = " + conta1.saldo);
 
 
 Console.ReadLine();
