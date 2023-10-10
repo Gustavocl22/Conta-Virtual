@@ -1,0 +1,30 @@
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.exe
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.deps.json
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.pdb
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\refint\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.pdb
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ref\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.exe
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.deps.json
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\bin\Debug\net7.0\ContaVirtual.pdb
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\refint\ContaVirtual.dll
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.pdb
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ContaVirtual.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Projeto pessoais\Projeto em C#\ContaVirtual\obj\Debug\net7.0\ref\ContaVirtual.dll
